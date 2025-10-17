@@ -185,8 +185,9 @@ npm install
 
 <img width="1269" height="682" alt="image" src="https://github.com/user-attachments/assets/40dfdffd-cc17-47e6-a008-cefc54ac5be6" />
 
+<img width="923" height="350" alt="Task3_ui1" src="https://github.com/user-attachments/assets/4755c0db-32ae-42e5-825f-737b620369b7" />
+
 <img width="910" height="357" alt="Task3_ui" src="https://github.com/user-attachments/assets/a5db60d5-3b20-485e-8780-ded8cb1fe557" />
 
-<img width="923" height="350" alt="Task3_ui1" src="https://github.com/user-attachments/assets/4755c0db-32ae-42e5-825f-737b620369b7" />
 
 
