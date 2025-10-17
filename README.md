@@ -2,16 +2,23 @@
 
 React 19 + TypeScript + Ant Design web UI for the Kaiburr Task API.
 
+# Author
+
+**Adithya N Reddy**  
+B.Tech, Amrita School of Engineering, Bengaluru  
+Email: adithyasnr@gmail.com
+
+
 ## Features
 
-✅ **Full CRUD Operations** - Create, Read, Update, Delete tasks  
-✅ **Task Search** - Real-time search by task name  
-✅ **Command Execution** - Execute tasks and view output  
-✅ **Execution History** - View detailed execution logs with timestamps  
-✅ **Accessible UI** - ARIA labels, keyboard navigation, screen reader support  
-✅ **Responsive Design** - Works on desktop, tablet, and mobile  
-✅ **Real-time Updates** - Auto-refresh after operations  
-✅ **Error Handling** - User-friendly error messages  
+1) **Full CRUD Operations** - Create, Read, Update, Delete tasks  
+2) **Task Search** - Real-time search by task name  
+3)  **Command Execution** - Execute tasks and view output  
+4)  **Execution History** - View detailed execution logs with timestamps  
+5) **Accessible UI** - ARIA labels, keyboard navigation, screen reader support  
+6) **Responsive Design** - Works on desktop, tablet, and mobile  
+7) **Real-time Updates** - Auto-refresh after operations  
+8) **Error Handling** - User-friendly error messages  
 
 ## Tech Stack
 
@@ -94,12 +101,12 @@ The frontend connects to the backend REST API:
 
 ## Accessibility Features
 
-- ✅ ARIA labels on all interactive elements
-- ✅ Keyboard navigation support
-- ✅ Focus indicators for better visibility
-- ✅ Screen reader compatible
-- ✅ High contrast mode support
-- ✅ Reduced motion support
+-  ARIA labels on all interactive elements
+-  Keyboard navigation support
+-  Focus indicators for better visibility
+-  Screen reader compatible
+-  High contrast mode support
+-  Reduced motion support
 
 ## Usage
 
@@ -174,12 +181,8 @@ rm -r node_modules
 npm install
 ```
 
-## Author
+## Screenshots
 
-**Adithya N Reddy**  
-B.Tech, Amrita School of Engineering, Bengaluru  
-Email: adithyasnr@gmail.com
+<img width="1269" height="682" alt="image" src="https://github.com/user-attachments/assets/40dfdffd-cc17-47e6-a008-cefc54ac5be6" />
 
-## License
-
-MIT License - Created for Kaiburr Assessment Task 3
+<img width="1274" height="430" alt="image" src="https://github.com/user-attachments/assets/56bce946-2cb4-405c-ac4c-1ed9b78d25a0" />
